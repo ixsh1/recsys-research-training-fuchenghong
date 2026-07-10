@@ -1,11 +1,7 @@
-# Knowledge Base
+# 知识库索引
 
-This folder contains long-term notes for recommender systems research training.
-
-## Index
-
-- [Python](python.md)
-- [Mathematics](math.md)
-- [Recommender Systems](recsys.md)
-- [Paper Reading](paper_reading.md)
-- [Tools](tools.md)
+- `python.md`：Python 笔记。
+- `math.md`：数学基础笔记。
+- `recsys.md`：推荐系统笔记。
+- `paper_reading.md`：论文阅读笔记。
+- `tools.md`：工具使用笔记。
