@@ -1,0 +1,6 @@
+.venv/
+.python-3.11.9/
+python-3.11.9-*.zip
+python-3.11.9-*.exe
+__pycache__/
+assignment/lesson02_outputs/.matplotlib/
